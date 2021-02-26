@@ -4,8 +4,9 @@
         int id;
         double salary=0.0;
 
-        public EmployeeOne(int Id) {
+        public EmployeeOne(int id) {
             this.id = id;
+            this.salary = salary;
         }
 
         public EmployeeOne() {
